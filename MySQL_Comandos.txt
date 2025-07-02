@@ -1,0 +1,6 @@
+Ver DBs
+SHOW DATABASES;
+
+Criar Tabelas
+CREATE DATABASE Nome_Tabela;
+
